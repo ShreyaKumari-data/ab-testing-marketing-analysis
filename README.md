@@ -27,7 +27,7 @@ Column- 7 columns
 ### Method
 First defined null hypothesis and alternate hypothesis, then ran z-test to find p-value 
 
-If p-value>0.05, fail to reject the null hypothesis 
+If p-value>0.05, fail to reject the null hypothesis
 
 If p-value<0.05, reject the null hypothesis 
 
