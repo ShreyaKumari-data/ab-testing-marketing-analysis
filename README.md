@@ -36,6 +36,8 @@ If p-value<0.05, reject the null hypothesis
 - p-value is nearly zero so, so the result is statistically significant
 - Near-zero p-value proves statistical significance, but it does not automatically mean that it practically significant too for the business.
 
+  ![Analysis Screenshot](z test.png)
+
 ### Recommendation
 The numbers show conversion rate 2.55% for ads and 1.79% for psa so there is a difference of 0.76%. After z test the p value is nearly 0 so it can't be random chance , it is statistically significant.
 
