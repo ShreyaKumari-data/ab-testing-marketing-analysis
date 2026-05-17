@@ -45,3 +45,8 @@ Company should not immediately shift all the budget to ads as there is huge diff
 
 ### Tools Used
 Microsoft Excel — manual z-test, formula-based analysis
+
+### Next Steps
+- Run the test with equal group sizes (50/50 split) to eliminate sampling bias
+- Analyse conversion by most_ads_day and most_ads_hour to find peak performance windows
+- Calculate revenue impact of the 0.76% difference to assess practical significance
