@@ -7,13 +7,13 @@ Should the company shift its advertising budget from public service announcement
 Source- Kaggle 
 Size- 21466kB, 588102 rows 
 Column- 7 columns
-*Index: Row index
-*user id: User ID (unique)
-*test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement
-*converted: If a person bought the product then True, else is False
-*total ads: Amount of ads seen by person
-*most ads day: Day that the person saw the biggest amount of ads
-*most ads hour: Hour of day that the person saw the biggest amount of ads
+-Index: Row index
+-user id: User ID (unique)
+-test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement
+-converted: If a person bought the product then True, else is False
+-total ads: Amount of ads seen by person
+-most ads day: Day that the person saw the biggest amount of ads
+-most ads hour: Hour of day that the person saw the biggest amount of ads
 
 ### Method
 First defined null hypothesis and alternate hypothesis, then ran z-test to find p-value 
